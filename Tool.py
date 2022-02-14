@@ -241,13 +241,3 @@ while True:
 
     if event == '-SAVE_T-':
         data = transaction(data)
-
-    
-
-        
-
-
-# user account -name , p_no, bal=0
-# a_no - class variable
-# withdraw
-# deposit
